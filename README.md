@@ -1,4 +1,4 @@
-# cvpr
+# Computer Vision & Pattern Recognition (CVPR)
 
 A repo for my computer vision and pattern recognition course for **Fall 23-24**.
 
